@@ -7,5 +7,4 @@ Steps to work with:
 `cd num_f`\
 `bash`\
 `ls`\
-`bash`\
 `python rapnumf.py`
