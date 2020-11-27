@@ -2,11 +2,13 @@
 This is a short python program that works with numbers api with https protocol and this api is hosted by rapidapi.com website.  
 
 Steps to work with:
-https://github.com/A-nimus/num_f - automatic!
-[GitHub](git clone https://github.com/A-nimus/num_f)
+
+'''bash
+git clone https://github.com/A-nimus/num_f
 
 cd num_f
 
 ls
 
 python rapnumf.py
+'''
