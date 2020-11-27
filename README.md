@@ -3,7 +3,7 @@ This is a short python program that works with numbers api with https protocol a
 
 Steps to work with:
 
-'''bash
+```bash
 git clone https://github.com/A-nimus/num_f
 
 cd num_f
@@ -11,4 +11,4 @@ cd num_f
 ls
 
 python rapnumf.py
-'''
+```
