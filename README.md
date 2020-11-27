@@ -8,4 +8,4 @@ Steps to work with:
 `bash`\
 `ls`\
 `bash`\
-`python rapnumf.py`\
+`python rapnumf.py`
