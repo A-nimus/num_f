@@ -7,6 +7,5 @@ Steps to work with:
 
 `git clone https://github.com/A-nimus/num_f`\
 `cd num_f`\
-`bash`\
 `ls`\
 `python rapnumf.py`
