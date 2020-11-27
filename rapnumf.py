@@ -1,6 +1,6 @@
-import requests
+import requests, random
 
-num = int(input('ENTER YOUR FAVOURITE WHOLE NUMBER: '))
+num = int(input('ENTER YOUR FAVOURITE WHOLE NUMBER: ') or random.randint(0, 10))
 
 url = (f"https://numbersapi.p.rapidapi.com/{num}/math")
 
